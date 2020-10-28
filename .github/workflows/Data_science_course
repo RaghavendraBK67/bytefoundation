@@ -1,0 +1,80 @@
+#Introduction to Data Science
+
+
+##Data Science
+Data science is a concept to unify statistics, math and programming skills  extract knowledge and insight from data.
+
+##Data Analyst
+Data analyst examine data and seek to identify trends. 
+What stories do the numbers tell?
+What business decisions can be made based on these insights?
+They may also create visual representations, such as charts and graphs to better showcase what the data reveals.
+
+##Data Scientist
+Data scientists are pros at interpreting data, but also tend to have coding and mathematical modeling expertise. 
+They can do the work of a data analyst, but are also hands-on in machine learning, skilled with advanced programming, and can create new processes for data modeling. They can work with algorithms, predictive models, and more.
+
+##Data Engineer
+Data Engineers are focused on building infrastructure and architecture for data generation.
+In contrast, data scientists are focused on advanced mathematics and statistical analysis on that generated data.
+Simply put, data scientists depend on data engineers. Whereas data scientists tend to toil away in advanced analysis tools such as R, Hadoop, and advanced statistical modelling, data engineers are focused on the products which support those tools.
+
+
+##Role of a Data Scientist
+Conduct consumer data research and analytics
+Work with customer-centric algorithm models and tailor them to each customer as required
+Extract actionable insights from large databases
+Perform recurring and ad hoc quantitative analysis to support day-to-day decision making
+Support reporting and analytics, such as KPIs, financial reports, and creating and improving dashboards
+Help translate data into visualizations, metrics, and goals
+Write SQL queries to extract data from the data warehouse
+
+##Artificial Intellgience
+
+##Concept of Artificial Intellgence(AI)
+Warren McCullock and Walter Pitts published the first concept of a simplified brain cell, the so-called McCullock-Pitts (MCP) neuron, in 1943  A Logical Calculus of the Ideas Immanent in Nervous Activity.
+Neurons are interconnected nerve cells in the brain that are involved in the processing and transmitting of chemical and electrical signals, which is illustrated in the following figure:
+
+
+DSimage1
+
+
+McCullock and Pitts described such a nerve cell as a simple logic gate with binary outputs; multiple signals arrive at the dendrites, are then integrated into the cell body, and, if the accumulated signal exceeds a certain threshold, an output signal is generated that will be passed on by the axon.
+
+
+##Artificial Intelligence (AI)
+Artificial Intellegence means getting a computer to mimic human behavior in some way.
+
+Artificial intelligence (AI), is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals.
+Leading AI textbooks define the field as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.
+Colloquially, the term "artificial intelligence" is often used to describe machines that mimic "cognitive" functions that humans associate with the human mind, such as "learning" and "problem solving". 
+
+The traditional problems (or goals) of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception and the ability to move and manipulate objects.
+General intelligence is among the field's long-term goals.
+Approaches include statistical methods, computational intelligence, and traditional symbolic AI. Many tools are used in AI, including versions of search and mathematical optimization, artificial neural networks, and methods based on statistics, probability and economics.
+The AI field draws upon computer science, information engineering, mathematics, psychology, linguistics, philosophy, and many other fields.
+
+###Machine Learning (ML)
+Machine learning is a subset of Artificial Intelligence, and it consists of the techniques that enable computers to figure things out from the data and deliver AI applications.
+
+The application and science of algorithms that makes sense of data, is the most exciting field of all the computer sciences! 
+We are living in an age where data comes in abundance; using the self-learning algorithms from the field of machine learning, we can turn this data into knowledge self-learning algorithms to gain knowledge from that data in order to make predictions.
+Examples Instead of requiring humans to manually derive rules and build models from analyzing large amounts of data, machine learning offers a more efficient alternative for capturing the knowledge in data to gradually improve the performance of predictive models, and make data-driven decisions
+we enjoy robust e-mail spam filters, convenient text and voice recognition software, reliable Web search engines, challenging chess players, and, hopefully soon, safe and efficient self-driving cars.
+
+###Deep Learning (DL)
+Deep learning, meanwhile, is a subset of machine learning that enables computers to solve more complex problems.
+
+Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input.
+
+The word "deep" in "deep learning" refers to the number of layers through which the data is transformed.
+
+In deep learning, each level learns to transform its input data into a slightly more abstract and composite representation.
+In an image recognition application, the raw input may be a matrix of pixels; the first representational layer may abstract the pixels and encode edges; the second layer may compose and encode arrangements of edges; the third layer may encode a nose and eyes; and the fourth layer may recognize that the image contains a face.
+Importantly, a deep learning process can learn which features to optimally place in which level on its own.
+
+
+DSimage2
+
+
+
